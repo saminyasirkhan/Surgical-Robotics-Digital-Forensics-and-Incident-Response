@@ -68,7 +68,7 @@ It proposes a structured incident response and evidence-handling procedure that 
 
 The complete technical report, including the surgical robotics architecture comparison, forensic evidence analysis and proposed investigative SOP, is available below.
 
-**[View Full Project Report (PDF)](Surgical_Robotics_Digital_Forensics_and_Incident_Response.pdf)**
+**[View Full Project Report (PDF)](https://github.com/saminyasirkhan/Surgical-Robotics-Digital-Forensics-and-Incident-Response/blob/main/Surgical-Robotics-Digital-Forensics-and-Incident-Response.pdf)**
 
 ## 🧠 Skills Demonstrated
 
